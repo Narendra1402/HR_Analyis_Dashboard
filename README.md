@@ -2,7 +2,7 @@
 
 This Power BI project provides a comprehensive HR analytics dashboard that helps stakeholders monitor, evaluate, and improve human resource performance metrics across the organization.
 
-
+[🎥Detaling video](https://www.youtube.com/watch?v=W41lLdfV8-0)
 
 ## 🧠 Project Objective
 
